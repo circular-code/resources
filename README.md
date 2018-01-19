@@ -1,22 +1,22 @@
 # resources
 Some actualy helpful resources for web development
 
-## Web News
+### Web News
 
   * Regularly updated, curated
   https://frontendfront.com/
 
 
-## Web Design Blogs & Inspiration
+### Web Design Blogs & Inspiration
 
   * Web Design Project Feed on Behance
   https://www.behance.net/search?field=102
 
-  * Web Design Trends & 
+  * Web Design Trends & Awards
   https://www.awwwards.com/
 
 
-## Web Design Philosophy & Guidelines
+### Web Design Philosophy & Guidelines
  
   * Pixel Precicion Design Guidelines
   http://cdn.ustwo.com/PPP/PP3.pdf
@@ -29,7 +29,7 @@ Some actualy helpful resources for web development
   https://www.behance.net/gallery/9084309/Google-Visual-Assets-Guidelines-Part-2
 
 
-## Web Technology
+### Web Technology
 
   * Overview over Browser technologies
   https://platform.html5.org/
@@ -38,7 +38,7 @@ Some actualy helpful resources for web development
   https://caniuse.com/
 
 
-## Javascript
+### Javascript
 
   * Guide to writing less error-prone javascript
   https://molily.de/robust-javascript/
@@ -49,7 +49,7 @@ Some actualy helpful resources for web development
   * Large Scale Javascript Patterns & Design Decicions
   https://addyosmani.com/largescalejavascript/
 
-## GitHub
+### GitHub
 
   * Markdown Syntax Cheat Sheet
   https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf

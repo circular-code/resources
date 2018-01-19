@@ -15,10 +15,19 @@ Some actualy helpful resources for web development
   Web Design Trends & 
   https://www.awwwards.com/
 
+
 -- Web Design Philosophy & Guidelines --
+ 
+  Pixel Precicion Design Guidelines
+  http://cdn.ustwo.com/PPP/PP3.pdf
  
   Google Design Philosophy
   https://material.io/
+  
+  Google Visual Assets Guidelines
+  https://www.behance.net/gallery/9028077/google-visual-assets-guidelines-part-1
+  https://www.behance.net/gallery/9084309/Google-Visual-Assets-Guidelines-Part-2
+
 
 -- Web Technology --
 

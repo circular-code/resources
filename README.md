@@ -48,6 +48,9 @@ Some actualy helpful resources for web development
 
   * Large Scale Javascript Patterns & Design Decicions
   https://addyosmani.com/largescalejavascript/
+  
+  * jQuery like pure Javascript Solutions
+  http://youmightnotneedjquery.com/
 
 ### GitHub
 

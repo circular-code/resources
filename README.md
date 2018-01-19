@@ -1,13 +1,13 @@
 # resources
 Some actualy helpful resources for web development
 
-#### Web News
+#### News
 
   * Regularly updated, curated
   https://frontendfront.com/
 
 
-#### Web Design Blogs & Inspiration
+#### Design Blogs & Inspiration
 
   * Web Design Project Feed on Behance
   https://www.behance.net/search?field=102
@@ -16,7 +16,7 @@ Some actualy helpful resources for web development
   https://www.awwwards.com/
 
 
-#### Web Design Philosophy & Guidelines
+#### Design Philosophy & Guidelines
  
   * Pixel Precicion Design Guidelines
   http://cdn.ustwo.com/PPP/PP3.pdf
@@ -29,7 +29,7 @@ Some actualy helpful resources for web development
   https://www.behance.net/gallery/9084309/Google-Visual-Assets-Guidelines-Part-2
 
 
-#### Web Technology
+#### Technology
 
   * Overview over Browser technologies
   https://platform.html5.org/

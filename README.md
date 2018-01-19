@@ -1,7 +1,7 @@
 # resources
 Some actualy helpful resources for web development
 
--- Web News --
+* ##Web News *
 
   Regularly updated, curated
   https://frontendfront.com/
@@ -49,3 +49,7 @@ Some actualy helpful resources for web development
   Large Scale Javascript Patterns & Design Decicions
   https://addyosmani.com/largescalejavascript/
 
+-- GitHub --
+
+  Markdown Syntax Cheat Sheet
+  https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf

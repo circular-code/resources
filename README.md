@@ -1,5 +1,5 @@
 # resources
-Some actualy helpful resources for web development
+Some actualy helpful resources for web development/design
 
 #### News
 

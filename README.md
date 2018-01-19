@@ -78,9 +78,24 @@ Some actualy helpful resources for web development/design
 
  * HTML Element Reference
  https://developer.mozilla.org/en-US/docs/Web/HTML/Element
+ 
 
+#### Colors
+
+ * Advanced Color Picker
+ https://color.adobe.com/
+ 
+ * Color Palettes Inspiration
+ http://colorpalettes.net/
+
+
+
+#### Royalte Free Pictures
+
+ * https://gratisography.com/
 
 #### GitHub
 
   * Markdown Syntax Cheat Sheet
   https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
+  

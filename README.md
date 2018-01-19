@@ -49,7 +49,7 @@ Some actualy helpful resources for web development
   * Large Scale Javascript Patterns & Design Decicions
   https://addyosmani.com/largescalejavascript/
   
-  * jQuery like pure Javascript Solutions
+  * jQuery like - pure Javascript solutions
   http://youmightnotneedjquery.com/
 
 ### GitHub

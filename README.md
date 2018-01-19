@@ -18,10 +18,10 @@ Some actualy helpful resources for web development
 
 #### Design Philosophy & Guidelines
  
-  * Pixel Precicion Design Guidelines
+  * Pixel Precision Design Guidelines
   http://cdn.ustwo.com/PPP/PP3.pdf
  
-  * Google Design Philosophy
+  * Google Design Philosophy & Guidelines
   https://material.io/
   
   * Google Visual Assets Guidelines

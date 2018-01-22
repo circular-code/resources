@@ -98,4 +98,7 @@ Some actualy helpful resources for web development/design
 
   * Markdown Syntax Cheat Sheet
   https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
+
+#### Frontend Developer Skills Checklist
+ * [download checklist](https://1onjea25cyhx3uvxgs4vu325-wpengine.netdna-ssl.com/wp-content/uploads/2014/12/UdacityUltimateSkillsChecklistforYourFirstFrontEndDeveloperJob.pdf)
   

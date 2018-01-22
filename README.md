@@ -62,7 +62,8 @@ Some actualy helpful resources for web development/design
   * Guide to (Javascript) Design Patterns (book)
   https://addyosmani.com/resources/essentialjsdesignpatterns/book/
 
-  
+  * Collection of Best Practices
+  http://jstherightway.org/#getting-started
 
 
 #### CSS
@@ -89,7 +90,6 @@ Some actualy helpful resources for web development/design
  http://colorpalettes.net/
 
 
-
 #### Royalte Free Pictures
 
  * https://gratisography.com/
@@ -101,4 +101,3 @@ Some actualy helpful resources for web development/design
 
 #### Frontend Developer Skills Checklist
  * [download checklist](https://1onjea25cyhx3uvxgs4vu325-wpengine.netdna-ssl.com/wp-content/uploads/2014/12/UdacityUltimateSkillsChecklistforYourFirstFrontEndDeveloperJob.pdf)
-  

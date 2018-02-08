@@ -81,6 +81,11 @@ Some actualy helpful resources for web development/design
  https://developer.mozilla.org/en-US/docs/Web/HTML/Element
  
 
+#### Tools
+
+* Text compare tool (similar to svn merge)
+https://www.diffnow.com/
+
 #### Colors
 
  * Advanced Color Picker

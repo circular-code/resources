@@ -86,6 +86,9 @@ Some actualy helpful resources for web development/design
 * Text compare tool (similar to svn merge)
 https://www.diffnow.com/
 
+* File Renamer
+https://www.heise.de/download/product/renamer-51787
+
 #### Colors
 
  * Advanced Color Picker

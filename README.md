@@ -89,6 +89,18 @@ https://www.diffnow.com/
 * File Renamer
 https://www.heise.de/download/product/renamer-51787
 
+* Putty connect to server via ssh (SSH client)
+https://www.putty.org/
+
+* Filezilla file transfer tool (ftp)
+https://filezilla-project.org/
+
+* JSHint Javascript Error/Problem Detection
+http://jshint.com/
+
+* JSBeautifier beautifies javascript code (can set own rules)
+http://jsbeautifier.org/
+
 #### Colors
 
  * Advanced Color Picker

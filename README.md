@@ -1,11 +1,11 @@
 # resources
-Some actualy helpful resources for web development/design
+Some actualy useful resources for web development/design
 
 #### News
 
   * Regularly updated, curated
   https://frontendfront.com/
-
+\
 
 #### Design Blogs & Inspiration
 

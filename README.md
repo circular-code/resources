@@ -126,4 +126,10 @@ https://www.cleancss.com/html-beautify/
   https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
 
 #### Frontend Developer Skills Checklist
+
  * [download checklist](https://1onjea25cyhx3uvxgs4vu325-wpengine.netdna-ssl.com/wp-content/uploads/2014/12/UdacityUltimateSkillsChecklistforYourFirstFrontEndDeveloperJob.pdf)
+
+
+#### Ideas
+
+* https://medium.com/@cassierobinson/a-user-manual-for-me-d3a851fbc694

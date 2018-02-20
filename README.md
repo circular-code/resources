@@ -101,6 +101,12 @@ http://jshint.com/
 * JSBeautifier beautifies javascript code (can set own rules)
 http://jsbeautifier.org/
 
+* CSS Formatter
+http://e10host.com/css-beautifier
+
+* HTML Formatter
+https://www.cleancss.com/html-beautify/
+
 #### Colors
 
  * Advanced Color Picker

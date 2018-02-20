@@ -1,12 +1,15 @@
 # resources
 Some actualy useful resources for web development/design
 
+<br>
+
 #### News
 
   * Regularly updated, curated
   https://frontendfront.com/
-\
-
+  
+<br>
+  
 #### Design Blogs & Inspiration
 
   * Web Design Project Feed on Behance
@@ -15,6 +18,7 @@ Some actualy useful resources for web development/design
   * Web Design Trends & Awards
   https://www.awwwards.com/
 
+<br>
 
 #### Design Philosophy & Guidelines
  
@@ -28,6 +32,7 @@ Some actualy useful resources for web development/design
   https://www.behance.net/gallery/9028077/google-visual-assets-guidelines-part-1
   https://www.behance.net/gallery/9084309/Google-Visual-Assets-Guidelines-Part-2
 
+<br>
 
 #### Browser
 
@@ -43,6 +48,7 @@ Some actualy useful resources for web development/design
   * Web Apis
   https://developer.mozilla.org/en-US/docs/Web/API
 
+<br>
 
 #### Javascript
 
@@ -65,6 +71,7 @@ Some actualy useful resources for web development/design
   * Collection of Best Practices
   http://jstherightway.org/#getting-started
 
+<br>
 
 #### CSS
   
@@ -74,12 +81,14 @@ Some actualy useful resources for web development/design
   * Flexbox
   https://css-tricks.com/snippets/css/a-guide-to-flexbox/
   
+<br>
 
 #### HTML
 
  * HTML Element Reference
  https://developer.mozilla.org/en-US/docs/Web/HTML/Element
  
+<br>
 
 #### Tools
 
@@ -107,6 +116,8 @@ http://e10host.com/css-beautifier
 * HTML Formatter
 https://www.cleancss.com/html-beautify/
 
+<br>
+
 #### Colors
 
  * Advanced Color Picker
@@ -115,20 +126,26 @@ https://www.cleancss.com/html-beautify/
  * Color Palettes Inspiration
  http://colorpalettes.net/
 
+<br>
 
 #### Royalte Free Pictures
 
  * https://gratisography.com/
+
+<br>
 
 #### GitHub
 
   * Markdown Syntax Cheat Sheet
   https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
 
+<br>
+
 #### Frontend Developer Skills Checklist
 
  * [download checklist](https://1onjea25cyhx3uvxgs4vu325-wpengine.netdna-ssl.com/wp-content/uploads/2014/12/UdacityUltimateSkillsChecklistforYourFirstFrontEndDeveloperJob.pdf)
 
+<br>
 
 #### Ideas
 

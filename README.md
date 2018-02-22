@@ -75,6 +75,9 @@ Some actualy useful resources for web development/design
 
 #### CSS
   
+  * CSS Pro Tips
+  https://hackhands.com/70-Expert-Ideas-For-Better-CSS-Coding/
+  
   * Centering with CSS
   https://css-tricks.com/centering-css-complete-guide/
 

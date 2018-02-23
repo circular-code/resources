@@ -99,17 +99,23 @@ https://www.cleancss.com/html-beautify/
 
 <br>
 
+#### Meta
+
+ * Udacity Code Style Guide (js basically compressed google version) 
+https://udacity.github.io/frontend-nanodegree-styleguide/
+
+* Google Javascript Style Guide
+https://google.github.io/styleguide/jsguide.html
+
+ * Frontend Developer Skills Checklist 
+https://1onjea25cyhx3uvxgs4vu325-wpengine.netdna-ssl.com/wp-content/uploads/2014/12/UdacityUltimateSkillsChecklistforYourFirstFrontEndDeveloperJob.pdf
+
+<br>
+
 #### GitHub
 
   * Markdown Syntax Cheat Sheet
   https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
-
-<br>
-
-#### Meta
-
- * Frontend Developer Skills Checklist 
-https://1onjea25cyhx3uvxgs4vu325-wpengine.netdna-ssl.com/wp-content/uploads/2014/12/UdacityUltimateSkillsChecklistforYourFirstFrontEndDeveloperJob.pdf
 
 <br>
 

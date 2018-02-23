@@ -108,7 +108,8 @@ https://www.cleancss.com/html-beautify/
 
 #### Meta
 
- * [Frontend Developer Skills Checklist](https://1onjea25cyhx3uvxgs4vu325-wpengine.netdna-ssl.com/wp-content/uploads/2014/12/UdacityUltimateSkillsChecklistforYourFirstFrontEndDeveloperJob.pdf)
+ * Frontend Developer Skills Checklist 
+https://1onjea25cyhx3uvxgs4vu325-wpengine.netdna-ssl.com/wp-content/uploads/2014/12/UdacityUltimateSkillsChecklistforYourFirstFrontEndDeveloperJob.pdf
 
 <br>
 

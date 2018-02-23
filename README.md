@@ -101,7 +101,7 @@ https://www.cleancss.com/html-beautify/
 
 #### Meta
 
- * Udacity Code Style Guide (js basically compressed google version) 
+ * Udacity Code Style Guides HTML CSS JS & Git (js basically compressed google version) 
 https://udacity.github.io/frontend-nanodegree-styleguide/
 
 * Google Javascript Style Guide

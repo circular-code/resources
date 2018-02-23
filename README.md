@@ -12,19 +12,22 @@ Some actualy useful resources for web development/design
   
 <br>
 
-#### Browser
+#### Browser & Devices
 
-  * Overview over Browser technologies
+  * Overview over browser technologies
   https://platform.html5.org/
 
   * Browser support tables for web technologies
   https://caniuse.com/
  
-  * Event Reference
+  * Event reference
   https://developer.mozilla.org/en-US/docs/Web/Events
   
-  * Web Apis
+  * Web apis
   https://developer.mozilla.org/en-US/docs/Web/API
+
+  * Common display resolutions
+  https://en.wikipedia.org/wiki/Display_resolution#Common_display_resolutions
 
 <br>
 

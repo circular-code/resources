@@ -3,35 +3,13 @@ Some actualy useful resources for web development/design
 
 <br>
 
+## Code
+
 #### News
 
   * Regularly updated, curated
   https://frontendfront.com/
   
-<br>
-  
-#### Design Blogs & Inspiration
-
-  * Web Design Project Feed on Behance
-  https://www.behance.net/search?field=102
-
-  * Web Design Trends & Awards
-  https://www.awwwards.com/
-
-<br>
-
-#### Design Philosophy & Guidelines
- 
-  * Pixel Precision Design Guidelines
-  http://cdn.ustwo.com/PPP/PP3.pdf
- 
-  * Google Design Philosophy & Guidelines
-  https://material.io/
-  
-  * Google Visual Assets Guidelines
-  https://www.behance.net/gallery/9028077/google-visual-assets-guidelines-part-1
-  https://www.behance.net/gallery/9084309/Google-Visual-Assets-Guidelines-Part-2
-
 <br>
 
 #### Browser
@@ -121,6 +99,45 @@ https://www.cleancss.com/html-beautify/
 
 <br>
 
+#### GitHub
+
+  * Markdown Syntax Cheat Sheet
+  https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
+
+<br>
+
+#### Meta
+
+ * [Frontend Developer Skills Checklist](https://1onjea25cyhx3uvxgs4vu325-wpengine.netdna-ssl.com/wp-content/uploads/2014/12/UdacityUltimateSkillsChecklistforYourFirstFrontEndDeveloperJob.pdf)
+
+<br>
+
+## Design
+
+#### Design Blogs & Inspiration
+
+  * Web Design Project Feed on Behance
+  https://www.behance.net/search?field=102
+
+  * Web Design Trends & Awards
+  https://www.awwwards.com/
+
+<br>
+
+#### Design Philosophy & Guidelines
+ 
+  * Pixel Precision Design Guidelines
+  http://cdn.ustwo.com/PPP/PP3.pdf
+ 
+  * Google Design Philosophy & Guidelines
+  https://material.io/
+  
+  * Google Visual Assets Guidelines
+  https://www.behance.net/gallery/9028077/google-visual-assets-guidelines-part-1
+  https://www.behance.net/gallery/9084309/Google-Visual-Assets-Guidelines-Part-2
+
+<br>
+
 #### Colors
 
  * Advanced Color Picker
@@ -137,19 +154,6 @@ https://www.cleancss.com/html-beautify/
 
 <br>
 
-#### GitHub
-
-  * Markdown Syntax Cheat Sheet
-  https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
-
-<br>
-
-#### Frontend Developer Skills Checklist
-
- * [download checklist](https://1onjea25cyhx3uvxgs4vu325-wpengine.netdna-ssl.com/wp-content/uploads/2014/12/UdacityUltimateSkillsChecklistforYourFirstFrontEndDeveloperJob.pdf)
-
-<br>
-
-#### Ideas
+## Ideas
 
 * https://medium.com/@cassierobinson/a-user-manual-for-me-d3a851fbc694

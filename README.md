@@ -64,6 +64,9 @@ Some actualy useful resources for web development/design
 
   * Flexbox
   https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+  * CSS Validator
+  https://jigsaw.w3.org/css-validator/#validate_by_input
   
 <br>
 
@@ -71,6 +74,12 @@ Some actualy useful resources for web development/design
 
  * HTML Element Reference
  https://developer.mozilla.org/en-US/docs/Web/HTML/Element
+ 
+ * HTML Validator
+ http://validator.w3.org/#validate_by_input
+ 
+ * HTML Structural Elements
+ https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure#Enter_HTML5_structural_elements
  
 <br>
 

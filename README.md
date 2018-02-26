@@ -166,6 +166,17 @@ https://1onjea25cyhx3uvxgs4vu325-wpengine.netdna-ssl.com/wp-content/uploads/2014
 
 <br>
 
+#### Lorem Ipsum Generators
+
+* Samuel L. Jackson
+http://slipsum.com/
+
+* Meat
+https://baconipsum.com
+
+* Star Trek
+http://www.rikeripsum.com
+
 #### Colors
 
  * Advanced Color Picker

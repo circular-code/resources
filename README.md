@@ -75,13 +75,16 @@ Some actualy useful resources for web development/design
 
 #### HTML
 
- * HTML Element Reference
+ * Cheat Sheet
+ https://medium.com/level-up-web/the-mega-html5-cheatsheet-e8c479b1c521
+
+ * Element Reference
  https://developer.mozilla.org/en-US/docs/Web/HTML/Element
  
- * HTML Validator
+ * Validator
  http://validator.w3.org/#validate_by_input
  
- * HTML Structural Elements
+ * Structural Elements
  https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure#Enter_HTML5_structural_elements
  
 <br>

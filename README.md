@@ -55,6 +55,9 @@ Some actualy useful resources for web development/design
 <br>
 
 #### CSS
+
+  * CSS Auto Prefixer (vendor prefixes)
+  https://autoprefixer.github.io/
   
   * CSS Pro Tips
   https://hackhands.com/70-Expert-Ideas-For-Better-CSS-Coding/

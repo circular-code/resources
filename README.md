@@ -12,6 +12,13 @@ Some actualy useful resources for web development/design
   
 <br>
 
+#### Blogs
+
+  * Low level javascript discussion
+  http://2ality.com/
+  
+<br>
+
 #### Browser & Devices
 
   * Overview over browser technologies

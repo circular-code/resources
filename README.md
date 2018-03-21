@@ -59,6 +59,8 @@ Some actualy useful resources for web development/design
   * Collection of Best Practices
   http://jstherightway.org/#getting-started
 
+  * Understanding Javascript Inside the Core (sessionstack blog)
+  https://blog.sessionstack.com/tagged/tutorial
 <br>
 
 #### CSS

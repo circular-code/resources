@@ -17,6 +17,10 @@ Some actualy useful resources for web development/design
   * Low level javascript discussion
   http://2ality.com/
   
+  * Understanding Javascript Inside the Core (sessionstack blog)
+  https://blog.sessionstack.com/tagged/tutorial
+
+  
 <br>
 
 #### Browser & Devices
@@ -59,8 +63,6 @@ Some actualy useful resources for web development/design
   * Collection of Best Practices
   http://jstherightway.org/#getting-started
 
-  * Understanding Javascript Inside the Core (sessionstack blog)
-  https://blog.sessionstack.com/tagged/tutorial
 <br>
 
 #### CSS
@@ -124,6 +126,9 @@ http://e10host.com/css-beautifier
 * HTML Formatter
 https://www.cleancss.com/html-beautify/
 
+* IE 9-11 Testing
+https://www.browserling.com/
+
 <br>
 
 #### Meta
@@ -161,6 +166,9 @@ https://1onjea25cyhx3uvxgs4vu325-wpengine.netdna-ssl.com/wp-content/uploads/2014
 
   * Web Design Trends & Awards
   https://www.awwwards.com/
+
+  * User Interface Design Detailed Projects
+  https://medium.com/refactoring-ui
 
 <br>
 

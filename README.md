@@ -7,17 +7,17 @@ Some actualy useful resources for web development/design
 
 #### News
 
-  * Regularly updated, curated
+  * regularly updated, curated
   https://frontendfront.com/
   
 <br>
 
 #### Blogs
 
-  * Low level javascript discussion
+  * low level javascript discussion
   http://2ality.com/
   
-  * Understanding Javascript Inside the Core (sessionstack blog)
+  * understanding javascript inside the core (sessionstack blog)
   https://blog.sessionstack.com/tagged/tutorial
 
   
@@ -25,87 +25,87 @@ Some actualy useful resources for web development/design
 
 #### Browser & Devices
 
-  * Overview over browser technologies
+  * overview over browser technologies
   https://platform.html5.org/
 
-  * Browser support tables for web technologies
+  * browser support tables for web technologies
   https://caniuse.com/
  
-  * Event reference
+  * event reference
   https://developer.mozilla.org/en-US/docs/Web/Events
   
-  * Web apis
+  * web apis
   https://developer.mozilla.org/en-US/docs/Web/API
 
-  * Common display resolutions
+  * common display resolutions
   https://en.wikipedia.org/wiki/Display_resolution#Common_display_resolutions
 
 <br>
 
 #### Javascript
 
-  * Guide to writing less error-prone javascript
+  * guide to writing less error-prone javascript
   https://molily.de/robust-javascript/
 
-  * Guides to Javascript
+  * guides to javascript
   https://developer.mozilla.org/de/docs/Web/JavaScript/Guide, 
   http://eloquentjavascript.net/ (book)
 
-  * Large Scale Javascript Patterns & Design Decicions
+  * large scale javascript patterns & design decicions
   https://addyosmani.com/largescalejavascript/
   
-  * jQuery like - pure Javascript solutions
+  * jQuery like - pure javascript solutions
   http://youmightnotneedjquery.com/
 
-  * Guide to (Javascript) Design Patterns (book)
+  * guide to (Javascript) design patterns (book)
   https://addyosmani.com/resources/essentialjsdesignpatterns/book/
 
-  * Collection of Best Practices
+  * collection of best practices
   http://jstherightway.org/#getting-started
 
 <br>
 
 #### CSS
 
-  * CSS Auto Prefixer (vendor prefixes)
+  * CSS auto prefixer (vendor prefixes)
   https://autoprefixer.github.io/
   
-  * CSS Pro Tips
+  * CSS tips
   https://hackhands.com/70-Expert-Ideas-For-Better-CSS-Coding/
   
-  * Centering with CSS
+  * centering with CSS
   https://css-tricks.com/centering-css-complete-guide/
 
-  * Flexbox
+  * flexbox
   https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
-  * CSS Validator
+  * CSS validator
   https://jigsaw.w3.org/css-validator/#validate_by_input
   
 <br>
 
 #### HTML
 
- * Cheat Sheet
+ * cheat sheet
  https://medium.com/level-up-web/the-mega-html5-cheatsheet-e8c479b1c521
 
- * Element Reference
+ * element reference
  https://developer.mozilla.org/en-US/docs/Web/HTML/Element
  
  * Validator
  http://validator.w3.org/#validate_by_input
  
- * Structural Elements
+ * structural elements
  https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure#Enter_HTML5_structural_elements
  
 <br>
 
 #### Tools
 
-* Text compare tool (similar to svn merge)
+* text compare tool (similar to svn merge)
 https://www.diffnow.com/
 
-* File Renamer
+* rile renamer
 https://www.heise.de/download/product/renamer-51787
 
 * Putty connect to server via ssh (SSH client)
@@ -114,45 +114,45 @@ https://www.putty.org/
 * Filezilla file transfer tool (ftp)
 https://filezilla-project.org/
 
-* JSHint Javascript Error/Problem Detection
+* JSHint javascript error/problem detection
 http://jshint.com/
 
 * JSBeautifier beautifies javascript code (can set own rules)
 http://jsbeautifier.org/
 
-* CSS Formatter
+* CSS formatter
 http://e10host.com/css-beautifier
 
-* HTML Formatter
+* HTML formatter
 https://www.cleancss.com/html-beautify/
 
-* IE 9-11 Testing
+* IE 9-11 testing
 https://www.browserling.com/
 
 <br>
 
 #### Meta
 
- * Udacity Code Style Guides HTML CSS JS & Git (js basically compressed google version) 
+ * udacity code style guides HTML CSS JS & Git (js basically compressed google version) 
 https://udacity.github.io/frontend-nanodegree-styleguide/
 
-* Google Javascript Style Guide
+* google javascript style guide
 https://google.github.io/styleguide/jsguide.html
 
- * Frontend Developer Skills Checklist 
+ * frontend developer skills checklist 
 https://1onjea25cyhx3uvxgs4vu325-wpengine.netdna-ssl.com/wp-content/uploads/2014/12/UdacityUltimateSkillsChecklistforYourFirstFrontEndDeveloperJob.pdf
 
 <br>
 
 #### GitHub
 
-  * Markdown Syntax Cheat Sheet
+  * markdown syntax cheat sheet
   https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
    
-  * Markdown Documentation
+  * markdown documentation
   https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/
 
-  * Markdown Viewer
+  * markdown viewer
   https://dillinger.io/
 
 <br>
@@ -161,26 +161,26 @@ https://1onjea25cyhx3uvxgs4vu325-wpengine.netdna-ssl.com/wp-content/uploads/2014
 
 #### Design Blogs & Inspiration
 
-  * Web Design Project Feed on Behance
+  * web design project feed on behance
   https://www.behance.net/search?field=102
 
-  * Web Design Trends & Awards
+  * web design trends & awards
   https://www.awwwards.com/
 
-  * User Interface Design Detailed Projects
+  * user interface design detailed projects
   https://medium.com/refactoring-ui
 
 <br>
 
 #### Design Philosophy & Guidelines
  
-  * Pixel Precision Design Guidelines
+  * pixel precision design guidelines
   http://cdn.ustwo.com/PPP/PP3.pdf
  
-  * Google Design Philosophy & Guidelines
+  * google design ghilosophy & guidelines
   https://material.io/
   
-  * Google Visual Assets Guidelines
+  * google visual assets guidelines
   https://www.behance.net/gallery/9028077/google-visual-assets-guidelines-part-1
   https://www.behance.net/gallery/9084309/Google-Visual-Assets-Guidelines-Part-2
 
@@ -191,18 +191,18 @@ https://1onjea25cyhx3uvxgs4vu325-wpengine.netdna-ssl.com/wp-content/uploads/2014
 * Samuel L. Jackson
 http://slipsum.com/
 
-* Meat
+* meat
 https://baconipsum.com
 
-* Star Trek
+* star trek
 http://www.rikeripsum.com
 
 #### Colors
 
- * Advanced Color Picker
+ * advanced color picker
  https://color.adobe.com/
  
- * Color Palettes Inspiration
+ * color palettes inspiration
  http://colorpalettes.net/
 
 <br>

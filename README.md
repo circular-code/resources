@@ -129,6 +129,9 @@ https://www.cleancss.com/html-beautify/
 * IE 9-11 testing
 https://www.browserling.com/
 
+* chrome accessability extension
+https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb?hl=en
+
 <br>
 
 #### Meta

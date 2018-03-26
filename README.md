@@ -105,7 +105,7 @@ Some actualy useful resources for web development/design
 * text compare tool (similar to svn merge)
 https://www.diffnow.com/
 
-* rile renamer
+* file renamer
 https://www.heise.de/download/product/renamer-51787
 
 * Putty connect to server via ssh (SSH client)
@@ -180,7 +180,7 @@ https://1onjea25cyhx3uvxgs4vu325-wpengine.netdna-ssl.com/wp-content/uploads/2014
   * pixel precision design guidelines
   http://cdn.ustwo.com/PPP/PP3.pdf
  
-  * google design ghilosophy & guidelines
+  * google design philosophy & guidelines
   https://material.io/
   
   * google visual assets guidelines

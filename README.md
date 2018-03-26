@@ -221,3 +221,10 @@ http://www.rikeripsum.com
 * https://medium.com/@cassierobinson/a-user-manual-for-me-d3a851fbc694
 * make data generator into extra repository
 * use this https://labs.spotify.com/2018/03/02/introducing-coordinator-a-new-open-source-project-made-at-spotify-to-inject-some-whimsy-into-data-visualizations/
+
+## Try Out
+
+* Graph QL
+* D3
+* Fetch API
+* CSS Grid

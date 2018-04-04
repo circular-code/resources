@@ -172,6 +172,9 @@ https://1onjea25cyhx3uvxgs4vu325-wpengine.netdna-ssl.com/wp-content/uploads/2014
 
   * user interface design detailed projects
   https://medium.com/refactoring-ui
+  
+  * user interface design examples
+  https://www.pages.xyz/
 
 <br>
 

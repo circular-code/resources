@@ -62,6 +62,9 @@ Some actualy useful resources for web development/design
 
   * collection of best practices
   http://jstherightway.org/#getting-started
+  
+  * some hints on writing good quality code
+  https://medium.com/@JStheGame/what-does-good-code-look-like-8cb941ea8e49
 
 <br>
 

@@ -145,6 +145,9 @@ https://google.github.io/styleguide/jsguide.html
  * frontend developer skills checklist 
 https://1onjea25cyhx3uvxgs4vu325-wpengine.netdna-ssl.com/wp-content/uploads/2014/12/UdacityUltimateSkillsChecklistforYourFirstFrontEndDeveloperJob.pdf
 
+* frontend developer handbook 2018
+https://frontendmasters.com/books/front-end-handbook/2018/
+
 <br>
 
 #### GitHub

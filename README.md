@@ -39,6 +39,9 @@ Some actualy useful resources for web development/design
 
   * common display resolutions
   https://en.wikipedia.org/wiki/Display_resolution#Common_display_resolutions
+  
+  * high performance browser networking
+  https://hpbn.co/
 
 <br>
 
@@ -48,7 +51,7 @@ Some actualy useful resources for web development/design
   https://molily.de/robust-javascript/
 
   * guides to javascript
-  https://developer.mozilla.org/de/docs/Web/JavaScript/Guide, 
+  https://developer.mozilla.org/de/docs/Web/JavaScript/Guide,
   http://eloquentjavascript.net/ (book)
 
   * large scale javascript patterns & design decicions

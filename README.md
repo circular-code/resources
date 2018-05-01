@@ -69,6 +69,9 @@ Some actualy useful resources for web development/design
   * some hints on writing good quality code
   https://medium.com/@JStheGame/what-does-good-code-look-like-8cb941ea8e49
 
+  * you dont know js book series (read online)
+  https://github.com/getify/You-Dont-Know-JS
+
 <br>
 
 #### CSS
@@ -154,6 +157,8 @@ https://1onjea25cyhx3uvxgs4vu325-wpengine.netdna-ssl.com/wp-content/uploads/2014
 * frontend developer handbook 2018
 https://frontendmasters.com/books/front-end-handbook/2018/
 
+* gdpr summary for developers
+https://techblog.bozho.net/gdpr-practical-guide-developers/
 <br>
 
 #### GitHub

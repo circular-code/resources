@@ -71,6 +71,9 @@ Some actualy useful resources for web development/design
 
   * you dont know js book series (read online)
   https://github.com/getify/You-Dont-Know-JS
+  
+  * a guide to producing readable, reusable, and refactorable software in JavaScript
+  https://github.com/ryanmcdermott/clean-code-javascript
 
 <br>
 

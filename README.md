@@ -151,11 +151,23 @@ https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfe
  * simplicity matters by Rich Hickey
 https://www.youtube.com/watch?v=rI8tNMsozo0
 
- * simplicity matters by Rich Hickey
-https://www.youtube.com/watch?v=rI8tNMsozo0
-
 * growing a language by Guy Steele
 https://www.youtube.com/watch?v=_ahvzDzKdB0
+
+* solid Principles of Object Oriented and Agile Design by Bob Martin
+https://www.youtube.com/watch?v=TMuno5RZNeE&feature=youtu.be
+
+* The Future of Programming by Bob Martin (partly overlapping with solid principles of oo)
+https://www.youtube.com/watch?v=ecIWPzGEbFc
+
+ * 10 things i learned from the jquery source by paul irish
+https://www.youtube.com/watch?time_continue=2893&v=i_qE1iAmjFg
+
+* inventing on princible by Bret Victor
+https://www.youtube.com/watch?time_continue=1280&v=PUv66718DII
+
+* What the heck is the event loop anyway by Philip Roberts
+https://www.youtube.com/watch?time_continue=803&v=8aGhZQkoFbQ
 
 <br>
 

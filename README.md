@@ -146,6 +146,19 @@ https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfe
 
 <br>
 
+#### Talks
+
+ * simplicity matters by Rich Hickey
+https://www.youtube.com/watch?v=rI8tNMsozo0
+
+ * simplicity matters by Rich Hickey
+https://www.youtube.com/watch?v=rI8tNMsozo0
+
+* growing a language by Guy Steele
+https://www.youtube.com/watch?v=_ahvzDzKdB0
+
+<br>
+
 #### Meta
 
  * udacity code style guides HTML CSS JS & Git (js basically compressed google version) 

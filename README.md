@@ -155,19 +155,19 @@ https://www.youtube.com/watch?v=rI8tNMsozo0
 https://www.youtube.com/watch?v=_ahvzDzKdB0
 
 * solid Principles of Object Oriented and Agile Design by Bob Martin
-https://www.youtube.com/watch?v=TMuno5RZNeE&feature=youtu.be
+https://www.youtube.com/watch?v=TMuno5RZNeE
 
 * the Future of Programming by Bob Martin (partly overlapping with solid principles of oo)
 https://www.youtube.com/watch?v=ecIWPzGEbFc
 
 * inventing on princible by Bret Victor
-https://www.youtube.com/watch?time_continue=1280&v=PUv66718DII
+https://www.youtube.com/watch?v=PUv66718DII
 
 * what the heck is the event loop anyway by Philip Roberts
-https://www.youtube.com/watch?time_continue=803&v=8aGhZQkoFbQ
+https://www.youtube.com/watch?v=8aGhZQkoFbQ
 
  * 10 things i learned from the jquery source by Paul Irish
-https://www.youtube.com/watch?time_continue=2893&v=i_qE1iAmjFg
+https://www.youtube.com/watch?v=i_qE1iAmjFg
 
 <br>
 

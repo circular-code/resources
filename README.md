@@ -30,6 +30,9 @@ Some actualy useful resources for web development/design
 
   * browser support tables for web technologies
   https://caniuse.com/
+  
+  * ES 5/6/+ compatibility Tables
+  http://kangax.github.io/compat-table/es6/#test-Object_static_methods_Object.assign
  
   * event reference
   https://developer.mozilla.org/en-US/docs/Web/Events
@@ -42,7 +45,7 @@ Some actualy useful resources for web development/design
   
   * high performance browser networking
   https://hpbn.co/
-
+  
 <br>
 
 #### Javascript
@@ -187,6 +190,7 @@ https://frontendmasters.com/books/front-end-handbook/2018/
 
 * gdpr summary for developers
 https://techblog.bozho.net/gdpr-practical-guide-developers/
+
 <br>
 
 #### GitHub

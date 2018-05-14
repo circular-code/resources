@@ -32,8 +32,8 @@ Some actualy useful resources for web development/design
   https://caniuse.com/
   
   * ES 5/6/+ compatibility Tables
-  http://kangax.github.io/compat-table/es6/#test-Object_static_methods_Object.assign
- 
+  http://kangax.github.io/compat-table/es6
+  
   * event reference
   https://developer.mozilla.org/en-US/docs/Web/Events
   

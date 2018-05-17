@@ -150,6 +150,9 @@ https://www.browserling.com/
 * chrome accessability extension
 https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb?hl=en
 
+* everytimezone - shows all the timezones
+http://everytimezone.com/
+
 <br>
 
 #### Talks

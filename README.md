@@ -78,6 +78,9 @@ Some actualy useful resources for web development/design
   * a guide to producing readable, reusable, and refactorable software in JavaScript
   https://github.com/ryanmcdermott/clean-code-javascript
   
+  * google code archive
+  https://code.google.com/archive/
+  
   * wat.
   http://www.jsfuck.com/
 

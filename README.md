@@ -103,6 +103,9 @@ Some actualy useful resources for web development/design
   * CSS validator
   https://jigsaw.w3.org/css-validator/#validate_by_input
   
+  * CSS minifier
+  https://cssminifier.com/
+  
 <br>
 
 #### HTML

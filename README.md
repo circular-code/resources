@@ -191,6 +191,9 @@ https://www.youtube.com/watch?v=i_qE1iAmjFg
 
 #### Meta
 
+* REST
+https://restfulapi.net/rest-architectural-constraints/
+
  * udacity code style guides HTML CSS JS & Git (js basically compressed google version) 
 https://udacity.github.io/frontend-nanodegree-styleguide/
 

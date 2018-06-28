@@ -162,6 +162,9 @@ https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfe
 * everytimezone - shows all the timezones
 http://everytimezone.com/
 
+* svn cli basics
+http://www.linuxfromscratch.org/blfs/edguide/chapter03.html
+
 <br>
 
 #### Talks

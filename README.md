@@ -55,7 +55,7 @@ Some actualy useful resources for web development/design
 
   * high performance javascript (zakas)
   ftp://ftp.micronet-rostov.ru/linux-support/books/programming/JavaScript/[O%60Reilly]%20-%20High%20Performance%20JavaScript%20-%20[Zakas].pdf
-
+  
   * guides to javascript
   https://developer.mozilla.org/de/docs/Web/JavaScript/Guide,
   http://eloquentjavascript.net/ (book)

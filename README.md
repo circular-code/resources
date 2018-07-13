@@ -193,6 +193,9 @@ https://www.youtube.com/watch?v=8aGhZQkoFbQ
  * 10 things i learned from the jquery source by Paul Irish
 https://www.youtube.com/watch?v=i_qE1iAmjFg
 
+* Why are software development task estimations regularly off by a factor of 2-3 by Michael Wolfe (read)
+https://www.quora.com/Why-are-software-development-task-estimations-regularly-off-by-a-factor-of-2-3/answer/Michael-Wolfe?srid=doz3
+
 <br>
 
 #### Meta

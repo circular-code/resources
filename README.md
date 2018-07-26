@@ -87,6 +87,9 @@ Some actualy useful resources for web development/design
   * google code archive
   https://code.google.com/archive/
   
+  * guide to promises by jake archibald
+  https://developers.google.com/web/fundamentals/primers/promises
+  
   * wat.
   http://www.jsfuck.com/
 

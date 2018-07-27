@@ -221,6 +221,9 @@ https://frontendmasters.com/books/front-end-handbook/2018/
 * gdpr summary for developers
 https://techblog.bozho.net/gdpr-practical-guide-developers/
 
+* help to choose your mv' framework (to-do list built in each modern framework to compare)
+http://todomvc.com/
+
 <br>
 
 #### GitHub

@@ -90,6 +90,9 @@ Some actualy useful resources for web development/design
   * guide to promises by jake archibald
   https://developers.google.com/web/fundamentals/primers/promises
   
+  * introduction to react
+  https://www.robinwieruch.de/javascript-fundamentals-react-requirements/
+  
   * wat.
   http://www.jsfuck.com/
 

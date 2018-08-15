@@ -93,9 +93,6 @@ Some actualy useful resources for web development/design
   * introduction to react by Robin Wieruch
   https://www.robinwieruch.de/javascript-fundamentals-react-requirements/
   
-  * wat.
-  http://www.jsfuck.com/
-
 <br>
 
 #### CSS
@@ -228,6 +225,10 @@ https://techblog.bozho.net/gdpr-practical-guide-developers/
 http://todomvc.com/
 
 <br>
+
+#### Lulz
+  * https://www.emojicode.org/docs/reference/controlflow.html
+  * http://www.jsfuck.com/
 
 #### GitHub
 

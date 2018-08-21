@@ -228,11 +228,14 @@ https://techblog.bozho.net/gdpr-practical-guide-developers/
 http://todomvc.com/
 
 <br>
+
 #### Lulz
   * https://www.emojicode.org/docs/reference/controlflow.html
   * http://www.jsfuck.com/
   
 <br>
+<br>
+
 #### GitHub
 
   * markdown syntax cheat sheet

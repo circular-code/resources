@@ -234,7 +234,6 @@ http://todomvc.com/
   * http://www.jsfuck.com/
   
 <br>
-<br>
 
 #### GitHub
 

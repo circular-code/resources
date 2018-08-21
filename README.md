@@ -46,7 +46,7 @@ Some actualy useful resources for web development/design
   * high performance browser networking
   https://hpbn.co/
 
-  * Apple Real Display Pixel Dimensions
+  * Apple Display Pixel Dimensions
   https://stonehippo.com/apple_display_pixel_dimensions/
   
 <br>

@@ -117,6 +117,9 @@ Some actualy useful resources for web development/design
   
   * CSS minifier
   https://cssminifier.com/
+
+  * Bulletproof Font Face Declaration
+  https://transfonter.org/formats
   
 <br>
 

@@ -322,6 +322,7 @@ http://www.rikeripsum.com
 ## Web Design Inspiration
 
 * https://www.musikblog.de/label/zwei-bernds-tanken-super/
+* https://s.baku89.com/ui/
 
 ## To Do (try out)
 

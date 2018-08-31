@@ -319,6 +319,10 @@ http://www.rikeripsum.com
 * use this https://labs.spotify.com/2018/03/02/introducing-coordinator-a-new-open-source-project-made-at-spotify-to-inject-some-whimsy-into-data-visualizations/
 * https://jsonresume.org/schema/
 
+## Web Design Inspiration
+
+* https://www.musikblog.de/label/zwei-bernds-tanken-super/
+
 ## To Do (try out)
 
 * Graph QL

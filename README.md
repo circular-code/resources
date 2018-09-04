@@ -95,6 +95,9 @@ Some actualy useful resources for web development/design
   
   * introduction to react by Robin Wieruch
   https://www.robinwieruch.de/javascript-fundamentals-react-requirements/
+
+  * es6 cheatsheet
+  https://github.com/DrkSephy/es6-cheatsheet
   
 <br>
 

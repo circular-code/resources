@@ -98,6 +98,9 @@ Some actualy useful resources for web development/design
 
   * es6 cheatsheet
   https://github.com/DrkSephy/es6-cheatsheet
+
+  * javascript data structures and algorithms
+  https://github.com/trekhleb/javascript-algorithms
   
 <br>
 

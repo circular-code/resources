@@ -129,6 +129,11 @@ Some actualy useful resources for web development/design
   
 <br>
 
+#### Fonts
+
+   * tips on using webfonts
+   https://www.zachleat.com/web/font-checklist/
+
 #### HTML
 
  * cheat sheet

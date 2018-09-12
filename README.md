@@ -133,6 +133,8 @@ Some actualy useful resources for web development/design
 
    * tips on using webfonts
    https://www.zachleat.com/web/font-checklist/
+   
+<br>
 
 #### HTML
 

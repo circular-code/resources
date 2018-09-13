@@ -245,9 +245,10 @@ http://todomvc.com/
 
 <br>
 
-#### Lulz
+#### Wat
   * https://www.emojicode.org/docs/reference/controlflow.html
   * http://www.jsfuck.com/
+  * https://slikts.github.io/js-equality-game/
   
 <br>
 

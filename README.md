@@ -342,9 +342,9 @@ http://www.rikeripsum.com
 
 * Graph QL
 * D3
-* Fetch API
 * CSS Grid
-* Node
+* Node & Express
 * Electron
-* React
+* React Native
 * Angular
+* Typescript

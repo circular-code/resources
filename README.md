@@ -101,6 +101,9 @@ Some actualy useful resources for web development/design
 
   * javascript data structures and algorithms
   https://github.com/trekhleb/javascript-algorithms
+
+  * implementing privacy in javascript
+  https://philipwalton.com/articles/implementing-private-and-protected-members-in-javascript/
   
 <br>
 

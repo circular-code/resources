@@ -105,6 +105,9 @@ Some actualy useful resources for web development/design
   * implementing privacy in javascript
   https://philipwalton.com/articles/implementing-private-and-protected-members-in-javascript/
   
+  * json !== javascript
+  http://timelessrepo.com/json-isnt-a-javascript-subset
+  
 <br>
 
 #### CSS

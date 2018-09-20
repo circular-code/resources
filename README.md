@@ -196,6 +196,9 @@ http://everytimezone.com/
 * svn cli basics
 http://www.linuxfromscratch.org/blfs/edguide/chapter03.html
 
+* cross device testing
+https://www.browserstack.com/
+
 <br>
 
 #### Talks

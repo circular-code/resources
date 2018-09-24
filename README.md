@@ -108,6 +108,9 @@ Some actualy useful resources for web development/design
   * json !== javascript
   http://timelessrepo.com/json-isnt-a-javascript-subset
   
+  * https://molily.de/js/
+  german introduction to javascript
+  
 <br>
 
 #### CSS

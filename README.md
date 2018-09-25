@@ -202,6 +202,9 @@ http://www.linuxfromscratch.org/blfs/edguide/chapter03.html
 * cross device testing
 https://www.browserstack.com/
 
+* Epoch & Unix Timestamp Conversion 
+https://www.epochconverter.com/
+
 <br>
 
 #### Talks

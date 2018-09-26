@@ -358,8 +358,9 @@ http://www.rikeripsum.com
 * Graph QL
 * D3
 * CSS Grid
-* Node & Express
+* Express
 * Electron
 * React Native
 * Angular
 * Typescript
+* https://www.youtube.com/watch?v=Anq_N_SY17o

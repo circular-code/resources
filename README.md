@@ -260,6 +260,17 @@ http://todomvc.com/
 
 <br>
 
+#### Security
+
+* check if your email adress has been found in data of a known databreach
+https://haveibeenpwned.com
+
+* secure password manager
+https://1password.com
+
+<br>
+
+
 #### Wat
   * https://www.emojicode.org/docs/reference/controlflow.html
   * http://www.jsfuck.com/

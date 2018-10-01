@@ -136,6 +136,9 @@ Some actualy useful resources for web development/design
   * Bulletproof Font Face Declaration
   https://transfonter.org/formats
   
+  * collection of spinners/loaders
+  http://tobiasahlin.com/spinkit/
+  
 <br>
 
 #### Fonts

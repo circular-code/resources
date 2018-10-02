@@ -49,6 +49,9 @@ Some actualy useful resources for web development/design
   * Apple Display Pixel Dimensions
   https://stonehippo.com/apple_display_pixel_dimensions/
   
+  * Headless Chrome Node API 
+  https://pptr.dev/
+
 <br>
 
 #### Javascript

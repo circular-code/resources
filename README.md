@@ -172,6 +172,8 @@ Some actualy useful resources for web development/design
  * Introduction to Haskell
  https://www.seas.upenn.edu/~cis194/fall16/
 
+<br>
+
 #### Tools
 
 * text compare tool (similar to svn merge)

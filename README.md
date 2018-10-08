@@ -172,6 +172,9 @@ Some actualy useful resources for web development/design
  * Introduction to Haskell
  https://www.seas.upenn.edu/~cis194/fall16/
 
+ * Learn you a haskell ebook
+ http://learnyouahaskell.com/chapters
+
 <br>
 
 #### Tools

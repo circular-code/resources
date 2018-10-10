@@ -308,6 +308,9 @@ https://1password.com
   * markdown viewer
   https://dillinger.io/
 
+  * emoji cheat sheet
+  https://gist.github.com/roachhd/1f029bd4b50b8a524f3c
+
 <br>
 
 ## Design

@@ -113,6 +113,9 @@ Some actualy useful resources for web development/design
   
   * https://molily.de/js/
   german introduction to javascript
+
+  * console methods (to get to know others than console.log)
+  https://developer.mozilla.org/en-US/docs/Web/API/Console
   
 <br>
 

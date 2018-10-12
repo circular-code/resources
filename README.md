@@ -224,6 +224,9 @@ https://www.browserstack.com/
 * Epoch & Unix Timestamp Conversion 
 https://www.epochconverter.com/
 
+* JS Test Runner
+https://www.cypress.io/
+
 <br>
 
 #### Talks

@@ -116,6 +116,13 @@ Some actualy useful resources for web development/design
 
   * console methods (to get to know others than console.log)
   https://developer.mozilla.org/en-US/docs/Web/API/Console
+
+  * Mikhail Romanov on Time Complexity and Big O Notation
+  https://hackernoon.com/finding-non-unique-elements-in-javascript-d934e6fd6260
+
+  * Google Code Jam Challenges from past contests
+  https://code.google.com/codejam/past-contests
+
   
 <br>
 

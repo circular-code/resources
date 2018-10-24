@@ -144,6 +144,9 @@ Some actualy useful resources for web development/design
   
   * collection of spinners/loaders
   http://tobiasahlin.com/spinkit/
+
+  * organic shapes with css
+  https://medium.com/9elements/css-border-radius-can-do-that-d46df1d013ae
   
 <br>
 

@@ -123,6 +123,8 @@ Some actualy useful resources for web development/design
   * Google Code Jam Challenges from past contests
   https://code.google.com/codejam/past-contests
 
+  * 33 js concepts every js developer should know
+  https://github.com/leonardomso/33-js-concepts#readme
   
 <br>
 

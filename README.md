@@ -19,6 +19,9 @@ Some actualy useful resources for web development/design
   
   * understanding javascript inside the core (sessionstack blog)
   https://blog.sessionstack.com/tagged/tutorial
+  
+  * interesting web tech stuff
+  http://blog.danyll.com
 
   
 <br>

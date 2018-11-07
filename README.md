@@ -295,6 +295,9 @@ https://techblog.bozho.net/gdpr-practical-guide-developers/
 * help to choose your mv' framework (to-do list built in each modern framework to compare)
 http://todomvc.com/
 
+* Big O Cheatsheet
+http://bigocheatsheet.com/
+
 <br>
 
 #### Security

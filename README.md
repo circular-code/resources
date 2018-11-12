@@ -245,6 +245,9 @@ https://www.epochconverter.com/
 * JS Test Runner
 https://www.cypress.io/
 
+* Web Application Bundler (Webpack alternative)
+https://parceljs.org/
+
 <br>
 
 #### Talks

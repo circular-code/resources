@@ -128,6 +128,9 @@ Some actualy useful resources for web development/design
 
   * 33 js concepts every js developer should know
   https://github.com/leonardomso/33-js-concepts#readme
+
+  * promise polyfill
+  https://www.npmjs.com/package/promise-polyfill
   
 <br>
 

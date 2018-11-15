@@ -131,6 +131,12 @@ Some actualy useful resources for web development/design
 
   * promise polyfill
   https://www.npmjs.com/package/promise-polyfill
+
+  * speaking js by Dr. Axel Rauschmayer (es5)
+  http://speakingjs.com/es5/index.html
+  
+  * exploring js by Dr. Axel Rauschmayer (es6)
+  http://exploringjs.com/es6.html
   
 <br>
 

@@ -443,3 +443,8 @@ http://www.rikeripsum.com
 * Angular
 * Typescript
 * https://www.youtube.com/watch?v=Anq_N_SY17o
+
+## To Do (fix shit)
+* pxmaker
+* infinite scroller
+

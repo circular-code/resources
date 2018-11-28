@@ -138,6 +138,9 @@ Some actualy useful resources for web development/design
   * exploring js by Dr. Axel Rauschmayer (es6)
   http://exploringjs.com/es6.html
   
+  * few "advanced" react things to know
+  https://medium.freecodecamp.org/these-are-the-concepts-you-should-know-in-react-js-after-you-learn-the-basics-ee1d2f4b8030
+  
 <br>
 
 #### CSS

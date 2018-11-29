@@ -54,6 +54,9 @@ Some actualy useful resources for web development/design
   
   * Headless Chrome Node API 
   https://pptr.dev/
+  
+  *  what exactly is the dom by Ire Aderinokun
+  https://bitsofco.de/what-exactly-is-the-dom/
 
 <br>
 

@@ -58,6 +58,9 @@ Some actualy useful resources for web development/design
   *  what exactly is the dom by Ire Aderinokun
   https://bitsofco.de/what-exactly-is-the-dom/
 
+  * understanding the critical rendering path by Ire Aderinokun
+  https://bitsofco.de/understanding-the-critical-rendering-path/
+
 <br>
 
 #### Javascript

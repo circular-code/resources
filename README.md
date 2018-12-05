@@ -442,7 +442,7 @@ http://www.rikeripsum.com
 
 <br>
 
-## To Do (try out)
+## Try out
 
 * Graph QL
 * D3
@@ -454,7 +454,9 @@ http://www.rikeripsum.com
 * Typescript
 * https://www.youtube.com/watch?v=Anq_N_SY17o
 
-## To Do (fix shit)
+## To Do
 * pxmaker
 * infinite scroller
 * not supported seite für bardcodeCameraScan
+* circular-code.de
+* circular-design.com fertig

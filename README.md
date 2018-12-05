@@ -3,7 +3,7 @@ Some actualy useful resources for web development/design
 
 <br>
 
-## Code
+## Development
 
 #### News
 

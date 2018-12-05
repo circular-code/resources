@@ -146,6 +146,9 @@ Some actualy useful resources for web development/design
   
   * few "advanced" react things to know
   https://medium.freecodecamp.org/these-are-the-concepts-you-should-know-in-react-js-after-you-learn-the-basics-ee1d2f4b8030
+
+  * details on the execution of javascript code
+  https://medium.com/@siddharthac6/javascript-execution-of-synchronous-and-asynchronous-codes-40f3a199e687
   
 <br>
 

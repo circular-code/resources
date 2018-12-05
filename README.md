@@ -457,4 +457,4 @@ http://www.rikeripsum.com
 ## To Do (fix shit)
 * pxmaker
 * infinite scroller
-
+* not supported seite für bardcodeCameraScan

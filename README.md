@@ -458,6 +458,7 @@ http://www.rikeripsum.com
 * https://www.youtube.com/watch?v=Anq_N_SY17o
 
 ## To Do
+* skillshits landing plus logo
 * pxmaker
 * infinite scroller
 * not supported seite für bardcodeCameraScan

@@ -463,3 +463,4 @@ http://www.rikeripsum.com
 * not supported seite für bardcodeCameraScan
 * circular-code.de
 * circular-design.com fertig
+* ordentliche regions color extension für vscode

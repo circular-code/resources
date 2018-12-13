@@ -325,6 +325,9 @@ http://todomvc.com/
 * Big O Cheatsheet
 http://bigocheatsheet.com/
 
+* Recap of 2018
+https://levelup.gitconnected.com/a-recap-of-frontend-development-in-2018-715724c9441d
+
 <br>
 
 #### Security

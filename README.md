@@ -266,6 +266,9 @@ https://www.cypress.io/
 * Web Application Bundler (Webpack alternative)
 https://parceljs.org/
 
+* png size reducer 
+https://pngcrush.com
+
 <br>
 
 #### Talks

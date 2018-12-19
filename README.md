@@ -330,6 +330,35 @@ https://levelup.gitconnected.com/a-recap-of-frontend-development-in-2018-715724c
 
 <br>
 
+#### Cheat Sheets
+
+* es 6 
+https://devhints.io/es6
+
+* es mixed
+https://htmlcheatsheet.com/js/
+
+* es3 
+http://overapi.com/javascript
+
+* regex
+https://www.debuggex.com/cheatsheet/regex/javascript
+
+* react
+https://devhints.io/react
+
+* flexbox
+https://yoksel.github.io/flex-cheatsheet/
+
+* sass
+https://devhints.io/sass
+
+* graphQL
+https://raw.githubusercontent.com/sogko/graphql-shorthand-notation-cheat-sheet/master/graphql-shorthand-notation-cheat-sheet.png
+
+<br>
+
+
 #### Security
 
 * check if your email adress has been found in data of a known databreach
@@ -469,3 +498,4 @@ http://www.rikeripsum.com
 * circular-code.de
 * circular-design.com fertig
 * ordentliche regions color extension für vscode
+* ordentlicher crawler

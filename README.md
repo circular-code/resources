@@ -461,9 +461,10 @@ http://www.rikeripsum.com
 * https://www.youtube.com/watch?v=Anq_N_SY17o
 
 ## To Do
-* skillshits landing plus logo
-* pxmaker
-* infinite scroller
+* skillshots landing plus logo
+* pxmaker bugs
+* infinite scroller bike game
+* data generator
 * not supported seite für bardcodeCameraScan
 * circular-code.de
 * circular-design.com fertig

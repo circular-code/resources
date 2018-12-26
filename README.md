@@ -501,4 +501,3 @@ http://www.rikeripsum.com
 * circular-code.de
 * circular-design.com fertig
 * ordentliche regions color extension für vscode
-* ordentlicher crawler

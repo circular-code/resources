@@ -269,6 +269,9 @@ https://parceljs.org/
 * png size reducer 
 https://pngcrush.com
 
+* get keycode
+https://keycode.info/ (by Wes Bos)
+
 <br>
 
 #### Talks

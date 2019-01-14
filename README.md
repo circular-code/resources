@@ -380,6 +380,7 @@ https://1password.com
   * https://www.emojicode.org/docs/reference/controlflow.html
   * http://www.jsfuck.com/
   * https://slikts.github.io/js-equality-game/
+  * http://seoi.net/penint/
   
 <br>
 

@@ -183,6 +183,11 @@ Some actualy useful resources for web development/design
   
 <br>
 
+#### PHP
+
+  * Test/Execute PHP Code live/online
+  http://phptester.net/
+
 #### Fonts
 
    * tips on using webfonts

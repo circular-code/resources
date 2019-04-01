@@ -17,6 +17,9 @@ Some actualy useful resources for web development/design
   * low level javascript discussion
   http://2ality.com/
   
+  * blog of dan abramov
+  https://overreacted.io/
+ 
   * understanding javascript inside the core (sessionstack blog)
   https://blog.sessionstack.com/tagged/tutorial
   
@@ -25,6 +28,13 @@ Some actualy useful resources for web development/design
 
   
 <br>
+
+#### UI DEV
+
+  * facing ui challenges
+  https://overreacted.io/the-elements-of-ui-engineering/
+  
+  <br>
 
 #### Browser & Devices
 

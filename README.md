@@ -26,6 +26,9 @@ Some actualy useful resources for web development/design
   * interesting web tech stuff
   http://blog.danyll.com
 
+  * helpful breakdowns of web stuff
+  https://bitsofco.de/
+
   
 <br>
 

@@ -289,6 +289,9 @@ https://pngcrush.com
 * get keycode
 https://keycode.info/ (by Wes Bos)
 
+* grammar correction in german/english/whatever
+https://www.languagetool.org/
+
 <br>
 
 #### Talks

@@ -483,6 +483,9 @@ http://www.rikeripsum.com
 
  * gear generator
  https://geargenerator.com/
+ 
+ * remove background of image without fiddeling in photoshop
+ https://www.remove.bg/
 
 <br>
 

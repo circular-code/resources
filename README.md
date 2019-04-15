@@ -29,6 +29,9 @@ Some actualy useful resources for web development/design
   * helpful breakdowns of web stuff
   https://bitsofco.de/
 
+  * blog of addy osmani
+  https://addyosmani.com/blog/
+
   
 <br>
 

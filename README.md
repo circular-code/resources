@@ -196,6 +196,15 @@ Some actualy useful resources for web development/design
 
   * organic shapes with css
   https://medium.com/9elements/css-border-radius-can-do-that-d46df1d013ae
+
+  * email client css support (mailchimp)
+  https://templates.mailchimp.com/resources/email-client-css-support/
+  
+   * email client css support (mailchimp)
+  https://templates.mailchimp.com/resources/email-client-css-support/
+  
+  * email client css inliner (mailchimp)
+  https://templates.mailchimp.com/resources/inline-css/
   
 <br>
 

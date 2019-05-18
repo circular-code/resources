@@ -165,6 +165,9 @@ Some actualy useful resources for web development/design
 
   * details on the execution of javascript code
   https://medium.com/@siddharthac6/javascript-execution-of-synchronous-and-asynchronous-codes-40f3a199e687
+
+  * Scope, context, this
+  https://dev.to/carlillo/understanding-context-scope-execution-context-and-8-different-this-value-in-javascript-explained-by-paw-patrol-2gme
   
 <br>
 
@@ -551,7 +554,7 @@ http://www.rikeripsum.com
 * infinite scroller bike game
 * data generator
 * not supported seite für bardcodeCameraScan
-* circular-code.de
+* circular-code.com
 * circular-design.com fertig
 * ordentliche regions color extension für vscode
 * which key (+details) is the given keycode (extending wes bos keycode.info)

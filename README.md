@@ -172,6 +172,9 @@ Some actualy useful resources for web development/design
   * JS High Level Overview
   https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95
   
+  * Modern Javascript Development Mindset
+  http://2ality.com/2016/02/js-fatigue-fatigue.html
+
 <br>
 
 #### CSS
@@ -423,6 +426,7 @@ https://1password.com
   * https://slikts.github.io/js-equality-game/
   * http://seoi.net/penint/
   * https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition
+  * https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f
   
 <br>
 

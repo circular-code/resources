@@ -378,6 +378,9 @@ http://bigocheatsheet.com/
 * Recap of 2018
 https://levelup.gitconnected.com/a-recap-of-frontend-development-in-2018-715724c9441d
 
+* Sencha's Description of MVC and MVVM
+https://docs.sencha.com/extjs/6.0.2/guides/application_architecture/application_architecture.html
+
 <br>
 
 #### Cheat Sheets

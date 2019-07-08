@@ -175,6 +175,8 @@ Some actualy useful resources for web development/design
   * Modern Javascript Development Mindset
   http://2ality.com/2016/02/js-fatigue-fatigue.html
 
+  * pixie js demo page
+  http://pixijs.io/pixi-filters/tools/demo/
 <br>
 
 #### CSS

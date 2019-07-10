@@ -177,6 +177,9 @@ Some actualy useful resources for web development/design
 
   * pixie js demo page
   http://pixijs.io/pixi-filters/tools/demo/
+  
+  * comma operator
+  https://javascriptweblog.wordpress.com/2011/04/04/the-javascript-comma-operator/
 <br>
 
 #### CSS

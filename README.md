@@ -386,6 +386,9 @@ https://levelup.gitconnected.com/a-recap-of-frontend-development-in-2018-715724c
 * Sencha's Description of MVC and MVVM
 https://docs.sencha.com/extjs/6.0.2/guides/application_architecture/application_architecture.html
 
+* Linear Algebra for game devs
+http://blog.wolfire.com/2009/07/linear-algebra-for-game-developers-part-1/
+
 <br>
 
 #### Cheat Sheets

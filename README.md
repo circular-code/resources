@@ -389,6 +389,9 @@ https://docs.sencha.com/extjs/6.0.2/guides/application_architecture/application_
 * Linear Algebra for game devs
 http://blog.wolfire.com/2009/07/linear-algebra-for-game-developers-part-1/
 
+* floating point arithmetic
+https://docs.python.org/3/tutorial/floatingpoint.html
+
 <br>
 
 #### Cheat Sheets

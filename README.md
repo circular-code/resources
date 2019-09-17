@@ -250,6 +250,9 @@ Some actualy useful resources for web development/design
  * structural elements
  https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure#Enter_HTML5_structural_elements
  
+ * mailtolink generator
+ https://mailtolink.me/
+ 
 <br>
 
 #### Haskell

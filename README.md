@@ -265,6 +265,20 @@ Some actualy useful resources for web development/design
 
 <br>
 
+#### JSON
+
+* geojson simplifier
+https://mapshaper.org/
+
+* geojson editor
+http://geojson.io/
+https://google-developers.appspot.com/maps/documentation/utils/geojson/
+
+* json formatter/validator
+https://jsonformatter.curiousconcept.com/
+
+<br>
+
 #### Tools
 
 * text compare tool (similar to svn merge)

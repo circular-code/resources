@@ -220,6 +220,9 @@ Some actualy useful resources for web development/design
   * email client css inliner (mailchimp)
   https://templates.mailchimp.com/resources/inline-css/
   
+  * flexbox failure workarounds
+  https://github.com/philipwalton/flexbugs
+  
 <br>
 
 #### PHP

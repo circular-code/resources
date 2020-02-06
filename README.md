@@ -17,6 +17,9 @@ Some actualy useful resources for web development/design
   * low level javascript discussion
   http://2ality.com/
   
+  * exploring js
+  http://perfectionkills.com/
+  
   * blog of dan abramov
   https://overreacted.io/
  

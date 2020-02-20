@@ -338,6 +338,9 @@ https://parceljs.org/
 * png size reducer 
 https://pngcrush.com
 
+* image size reduce tool (photoshop save to web legacy alternative)
+https://squoosh.app/
+
 * get keycode
 https://keycode.info/ (by Wes Bos)
 

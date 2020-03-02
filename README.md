@@ -43,6 +43,8 @@ Some actualy useful resources for web development/design
   * facing ui challenges
   https://overreacted.io/the-elements-of-ui-engineering/
   
+  * http://youmightnotneedjs.com/
+  
   <br>
 
 #### Browser & Devices

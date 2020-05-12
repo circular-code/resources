@@ -396,6 +396,9 @@ https://udacity.github.io/frontend-nanodegree-styleguide/
 * google javascript style guide
 https://google.github.io/styleguide/jsguide.html
 
+* linux kernel style guide
+https://www.kernel.org/doc/html/v4.10/process/coding-style.html
+
  * frontend developer skills checklist 
 https://1onjea25cyhx3uvxgs4vu325-wpengine.netdna-ssl.com/wp-content/uploads/2014/12/UdacityUltimateSkillsChecklistforYourFirstFrontEndDeveloperJob.pdf
 

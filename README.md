@@ -383,6 +383,9 @@ https://www.stilldrinking.org/programming-sucks
 * Event Loop in Detail by Jake Archibald
 https://flaviocopes.com/requestanimationframe/
 
+* Alan Kay - Programming and Scaling
+https://www.youtube.com/watch?v=YyIQKBzIuBY
+
 <br>
 
 #### Meta

@@ -84,6 +84,17 @@ Some actualy useful resources for web development/design
 
 <br>
 
+#### React
+
+  * create react app dokumentation
+  https://create-react-app.dev/docs/getting-started/
+
+  * react router
+  https://reactrouter.com/
+  
+  * Tyler McGinnis
+  https://ui.dev/
+
 #### Javascript
 
   * guide to writing less error-prone javascript

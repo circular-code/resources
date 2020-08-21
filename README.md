@@ -94,6 +94,8 @@ Some actualy useful resources for web development/design
   
   * Tyler McGinnis
   https://ui.dev/
+  
+  <br>
 
 #### Javascript
 

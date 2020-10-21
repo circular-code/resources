@@ -445,6 +445,9 @@ https://docs.python.org/3/tutorial/floatingpoint.html
 * find the cost of adding a npm package to your bundle
 https://bundlephobia.com/
 
+* view npm dependencies as a graph
+http://npm-dependencies.com/
+
 <br>
 
 #### Cheat Sheets

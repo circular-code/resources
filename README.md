@@ -441,6 +441,9 @@ http://blog.wolfire.com/2009/07/linear-algebra-for-game-developers-part-1/
 
 * floating point arithmetic
 https://docs.python.org/3/tutorial/floatingpoint.html
+ 
+* find the cost of adding a npm package to your bundle
+https://bundlephobia.com/
 
 <br>
 

@@ -448,6 +448,9 @@ https://bundlephobia.com/
 * view npm dependencies as a graph
 http://npm-dependencies.com/
 
+* serverless (faas) overview/comparison
+https://fauna.com/blog/comparison-faas-providers
+
 <br>
 
 #### Cheat Sheets

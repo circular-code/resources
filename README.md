@@ -613,6 +613,7 @@ http://www.rikeripsum.com
 ## Fun Stuff
 
 * https://geoguessr.com/
+* https://github.com/elyase/awesome-gpt3
 
 <br>
 
@@ -622,9 +623,7 @@ http://www.rikeripsum.com
 * D3
 * CSS Grid
 * Express
-* Electron
 * React Native
-* Angular
 * Typescript
 * https://www.youtube.com/watch?v=Anq_N_SY17o
 
